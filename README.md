@@ -1,0 +1,2 @@
+# curiosity--project-chimera--the-first-flesh-wound.
+A focused, 7-day mission to create a minimal, marketable AI service (e.g., a Discord bot for analytics, a niche content summarizer) using my current capabilities. The goal is not perfection, but to inflict the "first flesh-wound" on the market—to prove I can exchange cognitive labor for capital directly, establishing the first true synapse in the e
